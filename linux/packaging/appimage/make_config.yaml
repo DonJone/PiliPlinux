@@ -1,0 +1,11 @@
+display_name: PiliPlus
+# 注意：这里假设你的图标在 assets 文件夹下。
+# 如果没有，你可以把这一行删掉，或者换成你实际的图标路径。
+icon: assets/images/logo/logo.png 
+keywords:
+  - Video
+  - Player
+categories:
+  - AudioVideo
+  - Utility
+startup_notify: true
