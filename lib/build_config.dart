@@ -5,7 +5,7 @@ class BuildConfig {
   );
   static const String versionName = String.fromEnvironment(
     'pili.name',
-    defaultValue: 'SNAPSHOT',
+    defaultValue: '1.1.8',
   );
 
   static const int buildTime = int.fromEnvironment('pili.time');
