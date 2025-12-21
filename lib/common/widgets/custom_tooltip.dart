@@ -1,7 +1,7 @@
 import 'dart:math' as math;
 import 'dart:ui' show clampDouble;
 
-import 'package:PiliPlus/utils/platform_utils.dart';
+import 'package:piliplus/utils/platform_utils.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 

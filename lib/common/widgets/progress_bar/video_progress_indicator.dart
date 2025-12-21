@@ -1,4 +1,4 @@
-import 'package:PiliPlus/common/constants.dart';
+import 'package:piliplus/common/constants.dart';
 import 'package:flutter/material.dart';
 
 Widget videoProgressIndicator(double progress) => ClipRect(

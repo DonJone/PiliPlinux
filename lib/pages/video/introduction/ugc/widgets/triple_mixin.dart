@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:math' show pi;
 
-import 'package:PiliPlus/utils/platform_utils.dart';
+import 'package:piliplus/utils/platform_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_smart_dialog/flutter_smart_dialog.dart';

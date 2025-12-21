@@ -1,5 +1,5 @@
-import 'package:PiliPlus/models/model_video.dart';
-import 'package:PiliPlus/utils/utils.dart';
+import 'package:piliplus/models/model_video.dart';
+import 'package:piliplus/utils/utils.dart';
 import 'package:hive/hive.dart';
 
 part 'model_owner.g.dart';

@@ -1,7 +1,7 @@
-import 'package:PiliPlus/models/common/super_chat_type.dart';
-import 'package:PiliPlus/pages/live_room/controller.dart';
-import 'package:PiliPlus/pages/live_room/superchat/superchat_card.dart';
-import 'package:PiliPlus/pages/search/controller.dart';
+import 'package:piliplus/models/common/super_chat_type.dart';
+import 'package:piliplus/pages/live_room/controller.dart';
+import 'package:piliplus/pages/live_room/superchat/superchat_card.dart';
+import 'package:piliplus/pages/search/controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 
